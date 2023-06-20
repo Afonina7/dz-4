@@ -6,6 +6,6 @@ public class ClassApp {
 
         int number2 = 10;
         int result = cl.myNumbers() + number2;
-        System.out.println("Checks return value: " + result);
+        System.out.println("~~~ <" + result + "> ~~~");
     }
 }
